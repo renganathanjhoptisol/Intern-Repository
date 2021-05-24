@@ -1,0 +1,57 @@
+## Understanding ios EcoSystem
+
+# What is Xcode ?
+
+	The Xcode IDE is at the center of the Apple development experience. Tightly
+intergrated with the Cocoa and Cocoa Touch frameworks, Xcode is an incredibly productive
+environment for building apps for Mac, iPhone, iPad, Apple Watch and Apple Tv.
+
+# Some smoothness of Xcode
+
+	Because everything is so well integrated, workflows feel natural. As you compose
+a new interface, the Assistant editor intuitively presents the related source code in a
+split window pane. Simply drag the mouse to connect UI controls to the implementation code.
+Apple LLVM compiler technologies parse your code, keeping every symbol you see in the LLDB
+debugger consistent with the editor and compiler. As you type, that same engine is constantly 
+at work, finding mistakes and offering Fix-its for your code.
+
+	Xcode even communicates with the Apple developer website, so you can enable services
+such as Game Center or Passbook in your app with single click. When your app is ready, Xcode will 
+bundle and submit your app to the App Store.
+
+## Note : Xcode only runs on macOs, which means you need a Mac if you want to build
+	  ios apps with Xcode. Xcode won't run on iPad. A few alternatives for Windows/Pc
+	  are available, but they are far from ideal
+
+## Minimum system requirements for Xcode 12:
+
+	1. A Mac with macOs 11 
+	2. 4 GB RAM, but 8+GB is more comfortable
+	3. At least 8 GB of free storage space or more
+
+## How to Download and Install Xcode
+
+	@refer this link 
+	https://apps.apple.com/us/app/xcode/id497799835?mt=12
+
+	@ Tip 
+	Don’t want to use the App Store app? Check out mas-cli/mas, a command-line interface for the Mac App Store. You can search, install and update apps
+	from the Mac App Store – via the Terminal command line!
+	
+	@And also refer this link for 
+	https://learnappmaking.com/how-to-download-install-update-xcode/
+
+
+	
+## How to use Xcode
+
+	@To refer this link to know about Xcode and Also Swift UI
+	> https://learnappmaking.com/xcode-tutorial/
+
+
+	Thank You !!!
+
+	
+
+	
+	

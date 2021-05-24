@@ -1,0 +1,51 @@
+## Understanding Android Studio EcoSystem
+
+## Overview of Android Studio
+
+# System Requirements 
+
+	1. Windows OS 10/8/7/Vista/2003 (32 or 64 bit)
+	2. Mac OS 10.8.5 or higher
+	3. GNOME or KDE desktop
+	4. Java JDK5 or later version
+	5. Java Runtime Environment
+	6. Android Studio
+
+# Setup Android Studio
+
+	@About Android Studio 
+		Android Studio is the official IDE for android application development.
+		It works based on IntelliJ IDEA, You can download the latest version of android studio from
+		Android Studio 2.2 Download, If you are new to installing Android Studio on windows,you will find a file, 
+		which is named as android-studio-bundle-143.3101438-windows.exe.So just download and run 
+		on windows machine according to android studio wizard guideline.
+		
+	@To download Android Studio using this link
+	https://developer.android.com/studio
+
+# Installation
+
+	So let's launch Android Studio.exe,Make sure before launch Android Studio, 
+	Our Machine should required installed Java JDK. To install Java JDK,take a references of Android environment setup
+	
+	@To refer using this link
+	https://www.tutorialspoint.com/android/android_studio.htm
+
+# Documentation
+	
+	If you know about android like how to install, build, create, components,
+etc.. you must be refer their official documentation.
+
+	Here, their official documentation link is here Please check and Read it fully
+and also working on your machine. That's cool to you (practically working)
+
+	@use this link to refer documentation
+	https://developer.android.com/studio/intro
+	
+
+	Thank You !!!
+
+	
+
+	
+	
